@@ -1,0 +1,15 @@
+Git init 
+git remote
+git add .
+git commit -m
+git push origin main
+
+** Agora estamos na Branch nova
+
+git checkout -b dev (-b serve para criar uma branch nova)
+git branch (mostra todas as branchs que eu tenho)
+git push origin dev (sobe as atualizações para a branch dev e não a principal)
+git checkout main (volta para a branch principal)
+
+
+
